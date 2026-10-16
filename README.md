@@ -25,7 +25,9 @@ Designed a 4x4 Weight-Stationary Systolic Array for AI inference acceleration. O
 
 ## 📍 Location
 Bangalore, India 
-## 👤 Author
-Akash B - VLSI Design 
-## Next Step
-FPGA Implementation 
+### Author
+
+**Akash B KOLUR | ECE Student | VLSI Enthusiast | Bangalore Aspiring ASIC Design Engineer**
+
+#VLSI #Verilog #ASIC #DigitalDesign
+
